@@ -14,9 +14,7 @@ The dataset contains medical information related to heart disease patients, incl
 - Model evaluation with confusion matrix and classification report
 
 ## How to Run
-
-1. Make sure you have Python installed (version 3.6+ recommended).
-2. Install required packages:
+ Install required packages:
 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
